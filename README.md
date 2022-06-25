@@ -19,7 +19,7 @@
   You must install the following for this app to function: Source Schema and then Source Seeds in an integrated terminal then run npm start to run the program.
 
   # Usage:
-  Sequalize, MySQL2, Express.js, nodemon, and dotenv
+  Sequelize, MySQL2, Express.js, nodemon, and dotenv
 
   # Contributors:
   Matthew Silver
